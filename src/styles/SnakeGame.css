@@ -1,0 +1,19 @@
+.SnakeGame {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f0f0f0;
+}
+
+.SnakeGame-board {
+  position: relative;
+  height: 600px;
+  width: 600px;
+  border: 1px solid #000;
+}
+
+.SnakeGame-info {
+  margin-top: 20px;
+  font-size: 24px;
+}
