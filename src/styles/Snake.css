@@ -1,0 +1,10 @@
+.snake {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  background-color: green;
+}
+
+.snake-head {
+  background-color: darkgreen;
+}
